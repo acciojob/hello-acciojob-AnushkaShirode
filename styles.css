@@ -3,10 +3,10 @@
 main{
 	width: 150px;
 	height: 150px;
-	background colour: black;
+	background-colour: black;
 }
 p{
-	colour:white;
+	colour: white;
 	margin-left: 32px;
 	padding: 10px;
 }
